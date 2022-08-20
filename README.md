@@ -24,7 +24,7 @@ Feel free to reach out using socials below to learn more about me.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/axelerated">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/axelolsson">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -33,19 +33,14 @@ Feel free to reach out using socials below to learn more about me.
 
 ## 🧰 I'm currently working on
 
-- My next blog
 - Health
+- Competence Development
 
 ## 🤔 I'm currently learning
 
-- Golang
+- ~Golang~
 - Rust
-- Servant leadership
 - ... and more
-
-## 📝 Latest Blog Posts
-
-_Coming soon_.
 
 ---
 
