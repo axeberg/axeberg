@@ -5,9 +5,9 @@
 Greetings! I'm <a href="https://codestro.dev/" target="_blank" rel="noreferrer">Axel</a> 👋
 </h3>
 
-I'm a software developer by training 💻, currently working as Head of Competence Development 🧠 over at [13|37](https://1337.tech) (we are [hiring!](https://www.1337.careers/)).
+I'm a software developer by training 💻, currently working as Head of Competence Development 🧠 over at [tretton37](https://tretton37.com).
 
-I'm currently based in Sweden 🇸🇪 and mostly working from home 🏡. 
+I'm currently based in Sweden 🇸🇪 and working from home 🏡. 
 
 My focus and passion is helping people and companies achieve their full potential.
 
@@ -33,14 +33,7 @@ Feel free to reach out using socials below to learn more about me.
 
 ## 🧰 I'm currently working on
 
-- Health
-- Competence Development
-
-## 🤔 I'm currently learning
-
-- ~Golang~
-- Rust
-- ... and more
+- Nothing at the moment
 
 ---
 
