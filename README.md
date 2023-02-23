@@ -37,4 +37,4 @@ Feel free to reach out using socials below to learn more about me.
 
 ---
 
-<a href="https://app.daily.dev/codestro"><img src="https://api.daily.dev/devcards/11b7f4f243944a3b94122ec054346e25.png?r=xgj" width="400" alt="Axel Olsson's Dev Card"/></a>
+<a href="https://app.daily.dev/axelerated"><img src="https://api.daily.dev/devcards/11b7f4f243944a3b94122ec054346e25.png?r=a1t" width="400" alt="Axel Olsson's Dev Card"/></a>
