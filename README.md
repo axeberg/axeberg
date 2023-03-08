@@ -1,19 +1,18 @@
-![Mooncake glory](https://media.giphy.com/headers/finalspacetbs/haE7tJCobSqC.gif)
+![gif showing the character Mooncake hovering in space, from the tv-show Final Space](https://media.giphy.com/headers/finalspacetbs/haE7tJCobSqC.gif)
 
 
 <h3 align="center">
-Greetings! I'm <a href="https://codestro.dev/" target="_blank" rel="noreferrer">Axel</a> 👋
+Greetings! I'm Axel 👋
 </h3>
 
-I'm a software developer by training 💻, currently working as Head of Competence Development 🧠 over at [tretton37](https://tretton37.com).
+A developer turned leader with over 12 years of industry experience in software development and IT consulting. Proven track record as a senior frontend developer and leader in learning, and professional competence development.
 
+👾 Worked as a developer in various team constellations, in numerous domains ranging from research to telecom using multiple technologies, architectures, and methodologies.
+
+👨‍🏫 Built and led a vocational school offering programs on full-stack web development. Personally oversaw the graduation of over 70 students.
+
+🧠 Helped conceptualize, formalize, and lead an ecosystem for hundreds of employees, led by industry experts, to offer competence development internally.
 I'm currently based in Sweden 🇸🇪 and working from home 🏡. 
-
-My focus and passion is helping people and companies achieve their full potential.
-
-As a firm believer in life-long learning I have have been part of the founding, and running, of a vocational school for software development, during which time I held hundres of live-streamed and recorded lectures, helped guide students to graduation and into new careers as software developers.
-
-During my time as a developer I've worked with everything from telecommunications, to travel agencies, to help grow software organzations and teams.
 
 Feel free to reach out using socials below to learn more about me.
 
@@ -33,7 +32,8 @@ Feel free to reach out using socials below to learn more about me.
 
 ## 🧰 I'm currently working on
 
-- Nothing at the moment
+- Learning Rust
+- Deciding whether a portfolio is a good idea or not
 
 ---
 
