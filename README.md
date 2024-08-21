@@ -5,7 +5,7 @@
 Greetings! I'm Axel 👋
 </h3>
 
-I'm a developer, currently employed at [Samba Nova Systems](https://sambanova.ai) as a developer.
+I'm a developer, currently employed at [SambaNova Systems](https://sambanova.ai) as a developer.
 
 Here's a brief overview of my background:
 
