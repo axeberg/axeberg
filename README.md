@@ -28,7 +28,7 @@ Feel free to reach out using socials below to learn more about me.
   <a href="https://instagram.com/axelerated">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/axeberg">
+  <a href="https://twitter.com/axelmollerberg">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
